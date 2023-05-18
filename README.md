@@ -1,7 +1,7 @@
 
 # ETrade Projesi
 
-Bu proje, E-ticaret alanında bir web uygulamasını temsil etmektedir. İçerisinde HTML, CSS, JavaScript, Tailwind CSS, ASP.NET Entity Framework, .NET Core, ASP.NET MVVM ve N-tier Layered Architecture gibi çeşitli teknolojileri kullanmaktadır.
+Bu proje, E-ticaret alanında bir web uygulamasını temsil etmektedir. İçerisinde HTML, CSS, JavaScript, ASP.NET Entity Framework, .NET Core, ASP.NET MVVM ve N-tier Layered Architecture gibi çeşitli teknolojileri kullanmaktadır.
 
 proje hala geliştirme aşamasındadır!
 
@@ -30,7 +30,7 @@ Proje, aşağıdaki teknolojiler ve araçlar kullanılarak geliştirilmiştir:
 
 Proje, N-tier Layered Architecture (Katmanlı Mimari) yaklaşımıyla tasarlanmıştır. Aşağıda projenin temel yapılandırması ve bileşenleri bulunmaktadır:
 
-1.  **UI Katmanı**: Kullanıcı arayüzünü temsil eder. HTML, CSS ve JavaScript kullanılarak geliştirilmiştir. Tailwind CSS, UI bileşenlerinin stilini yönetmek için kullanılmıştır.
+1.  **UI Katmanı**: Kullanıcı arayüzünü temsil eder. HTML, CSS ve JavaScript kullanılarak geliştirilmiştir. UI bileşenlerinin stilini yönetmek için kullanılmıştır.
     
 2.  **Sunucu Katmanı**: .NET Core ve ASP.NET MVVM kullanılarak geliştirilmiştir. İstemci tarafından gelen istekleri karşılar, iş mantığını yürütür ve veritabanı işlemlerini gerçekleştirir.
     
