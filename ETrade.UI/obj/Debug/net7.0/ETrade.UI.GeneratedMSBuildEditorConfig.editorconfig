@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ETrade.UI
+build_property.RootNamespace = ETrade.UI
+build_property.ProjectDir = C:\Users\SABAH\Desktop\teu\501Dersler\week11\.NET\Etrade\ETrade\ETrade.UI\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\SABAH\Desktop\teu\501Dersler\week11\.NET\Etrade\ETrade\ETrade.UI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/SABAH/Desktop/teu/501Dersler/week11/.NET/Etrade/ETrade/ETrade.UI/Views/Admin/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SABAH/Desktop/teu/501Dersler/week11/.NET/Etrade/ETrade/ETrade.UI/Views/Categories/Crud.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcnVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SABAH/Desktop/teu/501Dersler/week11/.NET/Etrade/ETrade/ETrade.UI/Views/Categories/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SABAH/Desktop/teu/501Dersler/week11/.NET/Etrade/ETrade/ETrade.UI/Views/Food/Crud.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZFxDcnVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SABAH/Desktop/teu/501Dersler/week11/.NET/Etrade/ETrade/ETrade.UI/Views/Food/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SABAH/Desktop/teu/501Dersler/week11/.NET/Etrade/ETrade/ETrade.UI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SABAH/Desktop/teu/501Dersler/week11/.NET/Etrade/ETrade/ETrade.UI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SABAH/Desktop/teu/501Dersler/week11/.NET/Etrade/ETrade/ETrade.UI/Views/Orders/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SABAH/Desktop/teu/501Dersler/week11/.NET/Etrade/ETrade/ETrade.UI/Views/Properties/Crud.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydGllc1xDcnVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SABAH/Desktop/teu/501Dersler/week11/.NET/Etrade/ETrade/ETrade.UI/Views/Properties/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydGllc1xMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SABAH/Desktop/teu/501Dersler/week11/.NET/Etrade/ETrade/ETrade.UI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SABAH/Desktop/teu/501Dersler/week11/.NET/Etrade/ETrade/ETrade.UI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SABAH/Desktop/teu/501Dersler/week11/.NET/Etrade/ETrade/ETrade.UI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SABAH/Desktop/teu/501Dersler/week11/.NET/Etrade/ETrade/ETrade.UI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SABAH/Desktop/teu/501Dersler/week11/.NET/Etrade/ETrade/ETrade.UI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dn60i93n45
+
+[C:/Users/SABAH/Desktop/teu/501Dersler/week11/.NET/Etrade/ETrade/ETrade.UI/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-yj93hq257k

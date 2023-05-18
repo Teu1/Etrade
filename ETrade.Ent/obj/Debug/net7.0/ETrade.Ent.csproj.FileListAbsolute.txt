@@ -1,0 +1,14 @@
+C:\Users\SABAH\Desktop\teu\501Dersler\week11\.NET\Etrade\ETrade\ETrade.Ent\bin\Debug\net7.0\ETrade.Ent.deps.json
+C:\Users\SABAH\Desktop\teu\501Dersler\week11\.NET\Etrade\ETrade\ETrade.Ent\bin\Debug\net7.0\ETrade.Ent.runtimeconfig.json
+C:\Users\SABAH\Desktop\teu\501Dersler\week11\.NET\Etrade\ETrade\ETrade.Ent\bin\Debug\net7.0\ETrade.Ent.dll
+C:\Users\SABAH\Desktop\teu\501Dersler\week11\.NET\Etrade\ETrade\ETrade.Ent\bin\Debug\net7.0\ETrade.Ent.pdb
+C:\Users\SABAH\Desktop\teu\501Dersler\week11\.NET\Etrade\ETrade\ETrade.Ent\obj\Debug\net7.0\ETrade.Ent.csproj.AssemblyReference.cache
+C:\Users\SABAH\Desktop\teu\501Dersler\week11\.NET\Etrade\ETrade\ETrade.Ent\obj\Debug\net7.0\ETrade.Ent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SABAH\Desktop\teu\501Dersler\week11\.NET\Etrade\ETrade\ETrade.Ent\obj\Debug\net7.0\ETrade.Ent.AssemblyInfoInputs.cache
+C:\Users\SABAH\Desktop\teu\501Dersler\week11\.NET\Etrade\ETrade\ETrade.Ent\obj\Debug\net7.0\ETrade.Ent.AssemblyInfo.cs
+C:\Users\SABAH\Desktop\teu\501Dersler\week11\.NET\Etrade\ETrade\ETrade.Ent\obj\Debug\net7.0\ETrade.Ent.csproj.CoreCompileInputs.cache
+C:\Users\SABAH\Desktop\teu\501Dersler\week11\.NET\Etrade\ETrade\ETrade.Ent\obj\Debug\net7.0\ETrade.Ent.dll
+C:\Users\SABAH\Desktop\teu\501Dersler\week11\.NET\Etrade\ETrade\ETrade.Ent\obj\Debug\net7.0\refint\ETrade.Ent.dll
+C:\Users\SABAH\Desktop\teu\501Dersler\week11\.NET\Etrade\ETrade\ETrade.Ent\obj\Debug\net7.0\ETrade.Ent.pdb
+C:\Users\SABAH\Desktop\teu\501Dersler\week11\.NET\Etrade\ETrade\ETrade.Ent\obj\Debug\net7.0\ETrade.Ent.genruntimeconfig.cache
+C:\Users\SABAH\Desktop\teu\501Dersler\week11\.NET\Etrade\ETrade\ETrade.Ent\obj\Debug\net7.0\ref\ETrade.Ent.dll
